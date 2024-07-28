@@ -29,4 +29,5 @@ export default defineConfig({
       validationSchema: '/src/validationSchema',
     },
   },
+  base: '/node_fs98_front_Zymbsis',
 });
